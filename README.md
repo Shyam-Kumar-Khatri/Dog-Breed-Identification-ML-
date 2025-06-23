@@ -23,7 +23,6 @@ dog-breed-identification
 You can download the dataset in zip format and extract it later in the same directory by clicking the following link. <br>
 📥 [Dataset download link](https://drive.google.com/file/d/14of-v7y9Q95fqBvOXfTrEg2C2LZ-aq6l/view)
 
-> Tip: You can use datasets like the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) or the [Kaggle Dog Breed Identification Challenge](https://www.kaggle.com/c/dog-breed-identification).
 
 ---
 
